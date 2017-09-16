@@ -27,7 +27,7 @@ def start_chat(name, age, rating, status):
             welcome_message=welcome_message+"Going Good"
         else:
             welcome_message=welcome_message+"Need Lots of Efforts"
-        print colored(welcome_message,'green')
+            print colored(welcome_message,'green')
 
         # displaying menu for user.
 
@@ -62,4 +62,4 @@ def start_chat(name, age, rating, status):
             # close application
             show_menu = False
         else:
-print colored("Wrong choice. Try again.",'red')
+            print colored("Wrong choice. Try again.",'red')

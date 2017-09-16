@@ -38,4 +38,4 @@ class Chat:
         self.Message=msgImage
         self.Timestamp=timestamp
     def displayMessage(self):
-print colored(self.Timestamp,'blue'),"\nMessage: ",self.Message,"\n"
+        print colored(self.Timestamp,'blue'),"\nMessage: ",self.Message,"\n"

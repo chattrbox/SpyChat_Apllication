@@ -34,4 +34,4 @@ def add_status():
 
         else:
             print colored("Wrong choice. Please try again",'red')
-return updated_status_message
+        return updated_status_message

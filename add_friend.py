@@ -56,4 +56,4 @@ def add_friend():
     else:
         print colored("Sorry invalid entry!!!!",'red')
     # returning number of friends
-return len(friends)
+        return len(friends)

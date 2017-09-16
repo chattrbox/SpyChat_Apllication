@@ -20,4 +20,4 @@ def select_friend():
                 print colored("Enter Correct Value",'red')
     else:
         return -1
-return result - 1
+        return result - 1

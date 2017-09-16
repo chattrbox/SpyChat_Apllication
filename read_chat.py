@@ -24,4 +24,4 @@ def read_chat():
         else:
             print colored("No Chat History!!!!",'red')
     else:
-print colored("Empty Friend's List!!!!",'red')
+        print colored("Empty Friend's List!!!!",'red')

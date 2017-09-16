@@ -45,4 +45,4 @@ def send_message():
             except IOError:
                 print colored("Image %s Does Not Exist!!!!" %(original_image),'red')
     else:
-print colored("Empty Friend's List!!!!",'red')
+        print colored("Empty Friend's List!!!!",'red')

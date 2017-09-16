@@ -29,4 +29,4 @@ def read_message():
         except IOError:
             print colored("Image Does Not Exists!!!!", 'red')
     else:
-print colored("Empty Friend's List!!!!",'red')
+        print colored("Empty Friend's List!!!!",'red')
